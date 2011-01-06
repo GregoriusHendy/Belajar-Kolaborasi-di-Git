@@ -1,5 +1,5 @@
 <html>
-<head>Contoh aplikasi buku alamat</head>
+<head><title>Contoh aplikasi buku alamat</title>></head>
 <body>
   <h1> Aplikasi buku alamat </h1>
   <p>
