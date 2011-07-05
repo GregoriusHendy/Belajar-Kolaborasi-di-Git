@@ -4,7 +4,7 @@
 <body>
 <p>
  <ul>
-   <li> 1. Menginput Data </li>
+   <li> 1. Menginput Data Alamat </li>
    <li> 2. Mengedit Data </li>
    <li> 3. Mencetak Data </li>
    <li> 4. Keluar Aplikasi </li>
