@@ -10,4 +10,5 @@
    <li> 4. Keluar Aplikasi </li>
   </ul> 
 </p>
+<b> edit dari hendy </b>
 </html>
