@@ -7,7 +7,7 @@
    <li> 1. Menginput Data </li>
    <li> 2. Mengedit Data </li>
    <li> 3. Mencetak Data </li>
-   <li> 4. Keluar	</li>
-  </ul>
+   <li> 4. Keluar Aplikasi </li>
+  </ul> 
 </p>
 </html>
