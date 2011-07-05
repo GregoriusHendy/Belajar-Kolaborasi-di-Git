@@ -1,0 +1,12 @@
+<html>
+<head><title> APLIKASI BUKU ALAMAT KELUARGA</title>
+
+<body>
+<p>
+ <ul>
+   <li> 1. Menginput Data </li>
+   <li> 2. Mencetak Data </li>
+   <li> 3. Keluar	</li>
+  </ul>
+</p>
+</html>
