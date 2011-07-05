@@ -5,8 +5,8 @@
 <p>
  <ul>
    <li> 1. Menginput Data Alamat </li>
-   <li> 2. Mengedit Data </li>
-   <li> 3. Mencetak Data </li>
+   <li> 2. Mengedit Data Alamat </li>
+   <li> 3. Mencetak Data Alamat</li>
    <li> 4. Keluar Aplikasi </li>
   </ul> 
 </p>
