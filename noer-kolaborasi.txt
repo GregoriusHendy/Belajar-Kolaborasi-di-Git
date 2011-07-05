@@ -1,0 +1,13 @@
+<html>
+<head><title>Contoh aplikasi buku alamat</title>></head>
+<body>
+  <h1> Aplikasi buku alamat </h1>
+  <p>
+   <ul>
+     <li>tambah data </li>
+     <li>tambah alamat </li>
+   </ul>
+  </p>  
+
+</body>
+</html>
